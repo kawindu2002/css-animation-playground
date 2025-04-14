@@ -1,1 +1,35 @@
 # css-animation-playground
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Animation Playground</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🎨 CSS Animation Playground</h1>
+
+  <h2>1. Bounce</h2>
+  <div class="box bounce"></div>
+
+  <h2>2. Slide</h2>
+  <div class="box slide"></div>
+
+  <h2>3. Spin</h2>
+  <div class="box spin"></div>
+
+  <h2>4. Color Change</h2>
+  <div class="box colorChange"></div>
+
+  <h2>5. Fade</h2>
+  <div class="box fade"></div>
+
+  <h2>6. Pulse (Grow/Shrink)</h2>
+  <div class="box pulse"></div>
+
+  <h2>7. Flip (Y-Axis)</h2>
+  <div class="box flip"></div>
+
+</body>
+</html>
