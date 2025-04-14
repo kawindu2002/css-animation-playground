@@ -1,5 +1,3 @@
-# css-animation-playground
-
 <!DOCTYPE html>
 <html>
 <head>
