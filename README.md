@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>CSS Animation Playground</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
